@@ -21,6 +21,10 @@ This README summarizes how OctoAcme delivers projects so new and current team me
 - **Project Manager (PM):** coordinates execution, risks, timelines, and communications.
 - **Product Manager (PdM):** owns what is built, prioritization, and success measurement.
 - **Developers:** implement and test features.
+- **UX Designer:** ensures user-centered, accessible experience design.
+- **Business Analyst (BA):** clarifies requirements, business process impacts, and traceability.
+- **DevOps/SRE:** enables reliable delivery, observability, and production readiness.
+- **Customer Support/Success:** prepares customer-facing enablement and feeds customer outcomes into planning.
 - **QA/Testing:** validate acceptance and release readiness.
 - **Stakeholders:** provide input, decisions, and approvals.
 
@@ -29,6 +33,7 @@ This README summarizes how OctoAcme delivers projects so new and current team me
 - Prioritized backlog with acceptance criteria
 - Risk register
 - Release notes template
+- Cross-functional role engagement checklist
 - Retrospective notes with action items
 
 ## Work Rhythms
@@ -47,3 +52,4 @@ See the detailed process documentation in this folder for phase-specific guides,
 - [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](./octoacme-roles-and-personas.md)
 - [Risk Management & Communication](./octoacme-risks-and-communication.md)
+- [Cross-functional Role Engagement Checklist](./octoacme-role-engagement-checklist.md)

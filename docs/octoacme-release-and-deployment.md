@@ -14,6 +14,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Release notes drafted
 - Rollback / mitigation plan documented
 - Smoke tests prepared
+- Customer and support enablement artifacts prepared (known issues, FAQs, escalation paths)
+- Final cross-functional go/no-go recorded (PM, PdM, DevOps/SRE, Support/Success)
 
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
@@ -22,6 +24,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
+- [ ] Confirm observability dashboards/alerts reviewed by DevOps/SRE
+- [ ] Confirm support readiness handoff completed (support brief, known issues, response owner)
 
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
