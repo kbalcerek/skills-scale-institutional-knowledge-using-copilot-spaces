@@ -16,6 +16,13 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
 
+## Role Handoffs & Ownership (Planning)
+- Product Manager + Business Analyst: finalize problem framing, scope boundaries, and acceptance criteria.
+- UX Designer: provide journey maps/wireframes and usability acceptance expectations.
+- Developers + DevOps/SRE: confirm technical approach, delivery dependencies, and environment constraints.
+- Project Manager: consolidate plan, owners, milestones, and communication cadence.
+- Customer Support/Success: contribute launch readiness needs (knowledge base/FAQ/training impacts).
+
 ## Backlog Item Template
 - Title:
 - Description:
@@ -41,3 +48,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] UX deliverables linked to backlog items where applicable
+- [ ] BA requirements and assumptions documented with traceable decisions
+- [ ] DevOps/SRE readiness requirements captured (environments, monitoring, rollback)
+- [ ] Support/Success enablement needs captured for release planning

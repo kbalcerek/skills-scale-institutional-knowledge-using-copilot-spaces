@@ -18,6 +18,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Discovery summary (user needs, workflow pain points, and operational constraints)
 
 ## Project One-pager Template
 - Project name:
@@ -29,12 +30,19 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Quick risks & dependencies:
 - Proposed team / roles:
 
+## Cross-Functional Alignment Prompts (Initiation)
+- UX: What user segments and primary journeys are in scope for discovery?
+- Business Analysis: What current-state processes or policy constraints affect delivery?
+- DevOps/SRE: What environment, security, or reliability constraints are known upfront?
+- Customer Support/Success: What top customer pain points or support trends should shape scope?
+
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] UX, BA, DevOps/SRE, and Support/Success inputs captured for planning handoff
 
 ## Decision Gate
 Move to planning when:
